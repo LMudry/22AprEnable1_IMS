@@ -1,80 +1,31 @@
-Coverage: 34%
-# Project Title
+# Inventory Management system 
 
-One Paragraph of project description goes here
+This project will create an inventory management system on a device and is written in Java as a back-end programming language. The app connects to a persistent MySQL database with JDBC and use customers, items, orders tables to create, read update and delete records. Unit tests and Maven build tools and dependencies are also used, and project is being developed in Eclipse. All project files can be found on GitHub (LMudry). 
 
-## Getting Started
+IMPORTANT!! Due to IT issues and data corruption, project extended until Monday 9am. No support available over weekend, experiencing version and build issues. Unable to create jars.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Github repository link: https://github.com/LMudry/22AprEnable1_IMS
+Jira kanban board: https://lmudry.atlassian.net/
+
+Initial work by Chris Perrins.Project work by Ladislav Mudry.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+GitHub
+Java JDK (16.0.2 used)
+Eclipse IDE with Maven (3.8.5)  and Junit (4 and 5) dependencies.
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system. Break down into which tests and what they do
-
-### Unit Tests 
-
-Explain what these tests test, why and how to run them
-
-```
-Give an example
-```
-
-### Integration Tests 
-Explain what these tests test, why and how to run them
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Java and Maven environment variables have to be set correctly.
 
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning.
-
 ## Authors
 
 * **Chris Perrins** - *Initial work* - [christophperrins](https://github.com/christophperrins)
+
+* **Ladislav Mudry** - *Project work* - [LMudry](https://github.com/LMudry)
 
 ## License
 
